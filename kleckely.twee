@@ -1,0 +1,72 @@
+:: StoryTitle
+kleckely
+
+
+:: StoryData
+{
+  "ifid": "1D75FF3D-EDB8-48D8-AC27-E66C14B0305F",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Car type ",
+  "zoom": 1
+}
+
+
+:: 911 Turbo S {"position":"1800,600","size":"100,100"}
+''911 Turbo S 
+
+Color''
+
+
+
+
+:: Car type\  {"position":"2600,200","size":"100,100"}
+
+Chose Which type of car you want 
+[[Muslce car]] 
+[[Super Car]] 
+[[Rally Car]] 
+
+
+
+:: LFA {"position":"2000,600","size":"100,100"}
+''Lexus LFA''
+
+''Color''
+
+
+:: Mitsubishi EVO\  {"position":"2500,600","size":"100,100"}
+''Mitsubishi EVO
+ 
+Color''
+
+
+:: Muslce car {"position":"3300,400","size":"100,100"}
+''Muslce Car''
+
+Mustang 
+CHallenger 
+
+
+:: Rally Car {"position":"2600,400","size":"100,100"}
+''Rally Cars''
+
+[[Mitsubishi EVO ]] 
+[[Subaru Impreza  ]] 
+
+
+:: Subaru Impreza\ \  {"position":"2700,600","size":"100,100"}
+''Subaru Impreza STI 
+
+Color''
+
+
+
+:: Super Car {"position":"1900,400","size":"100,100"}
+[[911 Turbo S]]
+[[LFA]]
+
+
+
+:: Untitled Passage {"position":"3200,600","size":"100,100"}
+
